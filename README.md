@@ -36,7 +36,7 @@ A production-ready **Deep Learning + Cloud** application that detects food from 
 ## 📸 Application Preview
 
 ### Web Interface
-![UI](screenshots/ui.png)
+![UI](screenshots/ui.jpg)
 
 ### Azure Deployment
 ![Azure](screenshots/azure.png)
